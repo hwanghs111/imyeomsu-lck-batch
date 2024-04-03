@@ -5,7 +5,6 @@ import java.time.LocalDateTime;
 import java.time.LocalTime;
 
 public class MatchSchedule {
-
     private LocalDate matchDate;
     private LocalTime matchTime;
     private String matchState;
